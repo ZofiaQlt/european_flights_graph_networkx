@@ -1,4 +1,4 @@
-# Flight routes in Europe 
+# Flight routes in Europe
 ## Visualization map using graph and networkx
 
 <br>
